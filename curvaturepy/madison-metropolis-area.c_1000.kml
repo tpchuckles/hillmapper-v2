@@ -1,0 +1,1631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<Style id="lineStyle60">
+		<LineStyle>
+			<color>F000C4FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle61">
+		<LineStyle>
+			<color>F000C3FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle62">
+		<LineStyle>
+			<color>F000C2FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle63">
+		<LineStyle>
+			<color>F000C1FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle64">
+		<LineStyle>
+			<color>F000C0FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle65">
+		<LineStyle>
+			<color>F000BFFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle66">
+		<LineStyle>
+			<color>F000BEFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle67">
+		<LineStyle>
+			<color>F000BDFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle68">
+		<LineStyle>
+			<color>F000BCFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle69">
+		<LineStyle>
+			<color>F000BBFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle162">
+		<LineStyle>
+			<color>F0005EFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle163">
+		<LineStyle>
+			<color>F0005DFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle164">
+		<LineStyle>
+			<color>F0005CFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle165">
+		<LineStyle>
+			<color>F0005BFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle166">
+		<LineStyle>
+			<color>F0005AFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle167">
+		<LineStyle>
+			<color>F00059FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle209">
+		<LineStyle>
+			<color>F0002FFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle208">
+		<LineStyle>
+			<color>F00030FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle201">
+		<LineStyle>
+			<color>F00037FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle200">
+		<LineStyle>
+			<color>F00038FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle203">
+		<LineStyle>
+			<color>F00035FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle202">
+		<LineStyle>
+			<color>F00036FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle205">
+		<LineStyle>
+			<color>F00033FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle204">
+		<LineStyle>
+			<color>F00034FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle207">
+		<LineStyle>
+			<color>F00031FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle206">
+		<LineStyle>
+			<color>F00032FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle254">
+		<LineStyle>
+			<color>F00002FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle160">
+		<LineStyle>
+			<color>F00060FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle161">
+		<LineStyle>
+			<color>F0005FFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle55">
+		<LineStyle>
+			<color>F000C9FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle54">
+		<LineStyle>
+			<color>F000CAFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle57">
+		<LineStyle>
+			<color>F000C7FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle56">
+		<LineStyle>
+			<color>F000C8FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle51">
+		<LineStyle>
+			<color>F000CDFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle50">
+		<LineStyle>
+			<color>F000CEFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle53">
+		<LineStyle>
+			<color>F000CBFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle52">
+		<LineStyle>
+			<color>F000CCFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle173">
+		<LineStyle>
+			<color>F00053FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle172">
+		<LineStyle>
+			<color>F00054FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle171">
+		<LineStyle>
+			<color>F00055FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle170">
+		<LineStyle>
+			<color>F00056FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle59">
+		<LineStyle>
+			<color>F000C5FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle58">
+		<LineStyle>
+			<color>F000C6FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle175">
+		<LineStyle>
+			<color>F00051FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle174">
+		<LineStyle>
+			<color>F00052FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle221">
+		<LineStyle>
+			<color>F00023FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle179">
+		<LineStyle>
+			<color>F0004DFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle146">
+		<LineStyle>
+			<color>F0006EFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle147">
+		<LineStyle>
+			<color>F0006DFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle144">
+		<LineStyle>
+			<color>F00070FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle145">
+		<LineStyle>
+			<color>F0006FFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle142">
+		<LineStyle>
+			<color>F00072FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle143">
+		<LineStyle>
+			<color>F00071FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle140">
+		<LineStyle>
+			<color>F00074FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle141">
+		<LineStyle>
+			<color>F00073FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle178">
+		<LineStyle>
+			<color>F0004EFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle148">
+		<LineStyle>
+			<color>F0006CFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle149">
+		<LineStyle>
+			<color>F0006BFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle152">
+		<LineStyle>
+			<color>F00068FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle119">
+		<LineStyle>
+			<color>F00089FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle118">
+		<LineStyle>
+			<color>F0008AFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle5">
+		<LineStyle>
+			<color>F000FBFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle4">
+		<LineStyle>
+			<color>F000FCFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle7">
+		<LineStyle>
+			<color>F000F9FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle6">
+		<LineStyle>
+			<color>F000FAFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle1">
+		<LineStyle>
+			<color>F000FFFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle0">
+		<LineStyle>
+			<color>F000E010</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle3">
+		<LineStyle>
+			<color>F000FDFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle2">
+		<LineStyle>
+			<color>F000FEFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle9">
+		<LineStyle>
+			<color>F000F7FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle8">
+		<LineStyle>
+			<color>F000F8FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle117">
+		<LineStyle>
+			<color>F0008BFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle151">
+		<LineStyle>
+			<color>F00069FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle150">
+		<LineStyle>
+			<color>F0006AFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle153">
+		<LineStyle>
+			<color>F00067FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle116">
+		<LineStyle>
+			<color>F0008CFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle155">
+		<LineStyle>
+			<color>F00065FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle154">
+		<LineStyle>
+			<color>F00066FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle157">
+		<LineStyle>
+			<color>F00063FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle156">
+		<LineStyle>
+			<color>F00064FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle159">
+		<LineStyle>
+			<color>F00061FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle158">
+		<LineStyle>
+			<color>F00062FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle168">
+		<LineStyle>
+			<color>F00058FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle252">
+		<LineStyle>
+			<color>F00004FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle253">
+		<LineStyle>
+			<color>F00003FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle250">
+		<LineStyle>
+			<color>F00006FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle251">
+		<LineStyle>
+			<color>F00005FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle256">
+		<LineStyle>
+			<color>F00000FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle228">
+		<LineStyle>
+			<color>F0001CFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle255">
+		<LineStyle>
+			<color>F00001FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle48">
+		<LineStyle>
+			<color>F000D0FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle49">
+		<LineStyle>
+			<color>F000CFFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle169">
+		<LineStyle>
+			<color>F00057FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle42">
+		<LineStyle>
+			<color>F000D6FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle43">
+		<LineStyle>
+			<color>F000D5FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle40">
+		<LineStyle>
+			<color>F000D8FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle41">
+		<LineStyle>
+			<color>F000D7FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle46">
+		<LineStyle>
+			<color>F000D2FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle47">
+		<LineStyle>
+			<color>F000D1FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle44">
+		<LineStyle>
+			<color>F000D4FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle45">
+		<LineStyle>
+			<color>F000D3FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle124">
+		<LineStyle>
+			<color>F00084FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle125">
+		<LineStyle>
+			<color>F00083FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle126">
+		<LineStyle>
+			<color>F00082FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle127">
+		<LineStyle>
+			<color>F00081FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle120">
+		<LineStyle>
+			<color>F00088FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle121">
+		<LineStyle>
+			<color>F00087FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle122">
+		<LineStyle>
+			<color>F00086FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle123">
+		<LineStyle>
+			<color>F00085FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle128">
+		<LineStyle>
+			<color>F00080FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle129">
+		<LineStyle>
+			<color>F0007FFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle245">
+		<LineStyle>
+			<color>F0000BFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle244">
+		<LineStyle>
+			<color>F0000CFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle247">
+		<LineStyle>
+			<color>F00009FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle246">
+		<LineStyle>
+			<color>F0000AFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle241">
+		<LineStyle>
+			<color>F0000FFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle240">
+		<LineStyle>
+			<color>F00010FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle243">
+		<LineStyle>
+			<color>F0000DFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle242">
+		<LineStyle>
+			<color>F0000EFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle249">
+		<LineStyle>
+			<color>F00007FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle248">
+		<LineStyle>
+			<color>F00008FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle39">
+		<LineStyle>
+			<color>F000D9FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle38">
+		<LineStyle>
+			<color>F000DAFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle37">
+		<LineStyle>
+			<color>F000DBFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle36">
+		<LineStyle>
+			<color>F000DCFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle35">
+		<LineStyle>
+			<color>F000DDFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle34">
+		<LineStyle>
+			<color>F000DEFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle33">
+		<LineStyle>
+			<color>F000DFFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle32">
+		<LineStyle>
+			<color>F000E0FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle31">
+		<LineStyle>
+			<color>F000E1FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle30">
+		<LineStyle>
+			<color>F000E2FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle99">
+		<LineStyle>
+			<color>F0009DFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle98">
+		<LineStyle>
+			<color>F0009EFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle91">
+		<LineStyle>
+			<color>F000A5FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle90">
+		<LineStyle>
+			<color>F000A6FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle93">
+		<LineStyle>
+			<color>F000A3FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle92">
+		<LineStyle>
+			<color>F000A4FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle95">
+		<LineStyle>
+			<color>F000A1FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle94">
+		<LineStyle>
+			<color>F000A2FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle97">
+		<LineStyle>
+			<color>F0009FFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle96">
+		<LineStyle>
+			<color>F000A0FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle137">
+		<LineStyle>
+			<color>F00077FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle136">
+		<LineStyle>
+			<color>F00078FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle135">
+		<LineStyle>
+			<color>F00079FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle134">
+		<LineStyle>
+			<color>F0007AFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle133">
+		<LineStyle>
+			<color>F0007BFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle132">
+		<LineStyle>
+			<color>F0007CFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle131">
+		<LineStyle>
+			<color>F0007DFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle130">
+		<LineStyle>
+			<color>F0007EFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle139">
+		<LineStyle>
+			<color>F00075FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle138">
+		<LineStyle>
+			<color>F00076FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle230">
+		<LineStyle>
+			<color>F0001AFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle231">
+		<LineStyle>
+			<color>F00019FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle232">
+		<LineStyle>
+			<color>F00018FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle233">
+		<LineStyle>
+			<color>F00017FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle234">
+		<LineStyle>
+			<color>F00016FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle235">
+		<LineStyle>
+			<color>F00015FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle236">
+		<LineStyle>
+			<color>F00014FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle237">
+		<LineStyle>
+			<color>F00013FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle238">
+		<LineStyle>
+			<color>F00012FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle239">
+		<LineStyle>
+			<color>F00011FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle28">
+		<LineStyle>
+			<color>F000E4FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle29">
+		<LineStyle>
+			<color>F000E3FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle24">
+		<LineStyle>
+			<color>F000E8FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle25">
+		<LineStyle>
+			<color>F000E7FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle26">
+		<LineStyle>
+			<color>F000E6FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle27">
+		<LineStyle>
+			<color>F000E5FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle20">
+		<LineStyle>
+			<color>F000ECFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle21">
+		<LineStyle>
+			<color>F000EBFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle22">
+		<LineStyle>
+			<color>F000EAFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle23">
+		<LineStyle>
+			<color>F000E9FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle88">
+		<LineStyle>
+			<color>F000A8FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle89">
+		<LineStyle>
+			<color>F000A7FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle86">
+		<LineStyle>
+			<color>F000AAFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle87">
+		<LineStyle>
+			<color>F000A9FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle84">
+		<LineStyle>
+			<color>F000ACFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle85">
+		<LineStyle>
+			<color>F000ABFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle82">
+		<LineStyle>
+			<color>F000AEFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle83">
+		<LineStyle>
+			<color>F000ADFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle80">
+		<LineStyle>
+			<color>F000B0FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle81">
+		<LineStyle>
+			<color>F000AFFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle102">
+		<LineStyle>
+			<color>F0009AFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle103">
+		<LineStyle>
+			<color>F00099FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle100">
+		<LineStyle>
+			<color>F0009CFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle101">
+		<LineStyle>
+			<color>F0009BFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle106">
+		<LineStyle>
+			<color>F00096FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle107">
+		<LineStyle>
+			<color>F00095FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle104">
+		<LineStyle>
+			<color>F00098FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle105">
+		<LineStyle>
+			<color>F00097FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle108">
+		<LineStyle>
+			<color>F00094FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle109">
+		<LineStyle>
+			<color>F00093FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle223">
+		<LineStyle>
+			<color>F00021FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle222">
+		<LineStyle>
+			<color>F00022FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle188">
+		<LineStyle>
+			<color>F00044FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle189">
+		<LineStyle>
+			<color>F00043FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle227">
+		<LineStyle>
+			<color>F0001DFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle226">
+		<LineStyle>
+			<color>F0001EFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle225">
+		<LineStyle>
+			<color>F0001FFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle224">
+		<LineStyle>
+			<color>F00020FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle182">
+		<LineStyle>
+			<color>F0004AFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle183">
+		<LineStyle>
+			<color>F00049FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle180">
+		<LineStyle>
+			<color>F0004CFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle181">
+		<LineStyle>
+			<color>F0004BFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle186">
+		<LineStyle>
+			<color>F00046FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle187">
+		<LineStyle>
+			<color>F00045FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle184">
+		<LineStyle>
+			<color>F00048FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle185">
+		<LineStyle>
+			<color>F00047FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle11">
+		<LineStyle>
+			<color>F000F5FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle10">
+		<LineStyle>
+			<color>F000F6FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle13">
+		<LineStyle>
+			<color>F000F3FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle12">
+		<LineStyle>
+			<color>F000F4FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle15">
+		<LineStyle>
+			<color>F000F1FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle14">
+		<LineStyle>
+			<color>F000F2FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle17">
+		<LineStyle>
+			<color>F000EFFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle16">
+		<LineStyle>
+			<color>F000F0FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle19">
+		<LineStyle>
+			<color>F000EDFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle18">
+		<LineStyle>
+			<color>F000EEFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle73">
+		<LineStyle>
+			<color>F000B7FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle72">
+		<LineStyle>
+			<color>F000B8FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle71">
+		<LineStyle>
+			<color>F000B9FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle70">
+		<LineStyle>
+			<color>F000BAFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle77">
+		<LineStyle>
+			<color>F000B3FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle76">
+		<LineStyle>
+			<color>F000B4FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle75">
+		<LineStyle>
+			<color>F000B5FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle74">
+		<LineStyle>
+			<color>F000B6FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle115">
+		<LineStyle>
+			<color>F0008DFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle114">
+		<LineStyle>
+			<color>F0008EFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle79">
+		<LineStyle>
+			<color>F000B1FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle78">
+		<LineStyle>
+			<color>F000B2FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle111">
+		<LineStyle>
+			<color>F00091FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle110">
+		<LineStyle>
+			<color>F00092FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle113">
+		<LineStyle>
+			<color>F0008FFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle112">
+		<LineStyle>
+			<color>F00090FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle177">
+		<LineStyle>
+			<color>F0004FFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle220">
+		<LineStyle>
+			<color>F00024FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle218">
+		<LineStyle>
+			<color>F00026FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle219">
+		<LineStyle>
+			<color>F00025FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle216">
+		<LineStyle>
+			<color>F00028FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle217">
+		<LineStyle>
+			<color>F00027FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle214">
+		<LineStyle>
+			<color>F0002AFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle215">
+		<LineStyle>
+			<color>F00029FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle212">
+		<LineStyle>
+			<color>F0002CFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle213">
+		<LineStyle>
+			<color>F0002BFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle210">
+		<LineStyle>
+			<color>F0002EFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle211">
+		<LineStyle>
+			<color>F0002DFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle195">
+		<LineStyle>
+			<color>F0003DFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle194">
+		<LineStyle>
+			<color>F0003EFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle197">
+		<LineStyle>
+			<color>F0003BFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle196">
+		<LineStyle>
+			<color>F0003CFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle191">
+		<LineStyle>
+			<color>F00041FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle190">
+		<LineStyle>
+			<color>F00042FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle193">
+		<LineStyle>
+			<color>F0003FFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle192">
+		<LineStyle>
+			<color>F00040FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle199">
+		<LineStyle>
+			<color>F00039FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle198">
+		<LineStyle>
+			<color>F0003AFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle176">
+		<LineStyle>
+			<color>F00050FF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle229">
+		<LineStyle>
+			<color>F0001BFF</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Placemark>
+		<styleUrl>#lineStyle256</styleUrl>
+		<name>Signature Drive</name>
+		<description>Curvature: 2136.07
+Distance: 1.38 mi
+Type: residential
+Surface: unknown</description>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>-89.464777,43.112382 -89.464878,43.112384 -89.465337,43.112392 -89.466001,43.112395 -89.466110,43.112404 -89.466209,43.112425 -89.466350,43.112473 -89.466405,43.112499 -89.466471,43.112542 -89.466528,43.112594 -89.466560,43.112650 -89.466588,43.112735 -89.466571,43.113746 -89.466525,43.113937 -89.466428,43.114168 -89.466410,43.114292 -89.466413,43.114373 -89.466435,43.114446 -89.466475,43.114535 -89.466503,43.114577 -89.466562,43.114685 -89.466569,43.114767 -89.466571,43.115204 -89.466566,43.115392 -89.466560,43.115594 -89.466544,43.115649 -89.466425,43.115857 -89.466348,43.115980 -89.466324,43.116047 -89.466342,43.116357 -89.466346,43.116440 -89.466058,43.117158 -89.466010,43.117310 -89.465999,43.117392 -89.466006,43.117899 -89.466034,43.118372 -89.465997,43.118614 -89.465963,43.118692 -89.465897,43.118766 -89.465719,43.118892 -89.465575,43.118951 -89.465483,43.118969 -89.465426,43.118980 -89.465366,43.118983 -89.465226,43.118990 -89.464917,43.118988 -89.464602,43.118950 -89.464398,43.118907 -89.464133,43.118858 -89.463934,43.118831 -89.463566,43.118796 -89.463464,43.118772 -89.462822,43.118590 -89.462697,43.118539 -89.462587,43.118437 -89.462511,43.118290 -89.462499,43.118225 -89.462485,43.117967 -89.462548,43.117745 -89.462608,43.117581 -89.462606,43.117397 -89.462575,43.117308 -89.462442,43.117024 -89.462428,43.116921 -89.462437,43.116855 -89.462484,43.116726 -89.462520,43.116658 -89.462629,43.116483 -89.462654,43.116415 -89.462658,43.116360 -89.462649,43.116258 -89.462521,43.116021 -89.462445,43.115761 -89.462402,43.115563 -89.462425,43.115416 -89.462444,43.115364 -89.462588,43.115191 -89.462626,43.115062 -89.462638,43.114971 -89.462633,43.114854 -89.462586,43.114671 -89.462540,43.114554 -89.462506,43.114487 -89.462446,43.114433 -89.462295,43.114313 -89.462186,43.114257 -89.462099,43.114222 -89.462004,43.114191 -89.461900,43.114170 -89.461773,43.114165 -89.461651,43.114167 -89.461517,43.114178 -89.461497,43.114183 -89.461336,43.114223 -89.461201,43.114270 -89.461160,43.114288 -89.460929,43.114422 -89.460882,43.114456 -89.460722,43.114600 -89.460680,43.114651 -89.460652,43.114706 -89.460608,43.114822 -89.460543,43.114937 -89.460486,43.115025 -89.460437,43.115082 -89.460374,43.115135 -89.460290,43.115187 -89.460209,43.115220 -89.460180,43.115236 -89.460083,43.115274 -89.459953,43.115313 -89.459836,43.115333 -89.459621,43.115353 -89.459484,43.115387 -89.459393,43.115436 -89.459269,43.115544 -89.459200,43.115621 -89.459063,43.115845 -89.458779,43.116113 -89.458346,43.116464 -89.458140,43.116562 -89.457980,43.116612 -89.457710,43.116678 -89.457545,43.116691 -89.457432,43.116694 -89.457032,43.116639 -89.456816,43.116631 -89.456748,43.116633 -89.456555,43.116663 </coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#lineStyle162</styleUrl>
+		<name>Swoboda Road</name>
+		<description>Curvature: 1454.19
+Distance: 2.21 mi
+Type: residential
+Surface: unknown</description>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>-89.580541,43.074778 -89.580544,43.074491 -89.580560,43.074129 -89.580559,43.073939 -89.580546,43.073838 -89.580421,43.073305 -89.580344,43.072952 -89.580326,43.072765 -89.580339,43.072600 -89.580368,43.072372 -89.580402,43.072185 -89.580478,43.071991 -89.580583,43.071798 -89.580694,43.071636 -89.580851,43.071486 -89.581059,43.071326 -89.581229,43.071226 -89.581450,43.071136 -89.582313,43.070840 -89.582585,43.070752 -89.582746,43.070680 -89.582852,43.070592 -89.582924,43.070508 -89.582984,43.070418 -89.583017,43.070308 -89.583067,43.069775 -89.583096,43.069538 -89.583126,43.069360 -89.583180,43.069204 -89.583303,43.069038 -89.583464,43.068842 -89.583719,43.068583 -89.583872,43.068454 -89.584038,43.068358 -89.584216,43.068279 -89.584378,43.068229 -89.584556,43.068207 -89.584799,43.068197 -89.585254,43.068194 -89.586327,43.068213 -89.586463,43.068220 -89.586644,43.068217 -89.586730,43.068207 -89.586920,43.068184 -89.587101,43.068142 -89.587309,43.068073 -89.587583,43.067951 -89.587810,43.067805 -89.587924,43.067680 -89.588035,43.067538 -89.588157,43.067434 -89.588225,43.067411 -89.588415,43.067345 -89.588476,43.067328 -89.588728,43.067275 -89.589034,43.067196 -89.589270,43.067096 -89.589518,43.066922 -89.589766,43.066583 -89.589968,43.066247 -89.590131,43.065931 -89.590176,43.065732 -89.590193,43.065179 -89.590185,43.064863 -89.590189,43.064543 -89.590200,43.064261 -89.590239,43.063774 -89.590289,43.063581 -89.590363,43.063408 -89.590484,43.063200 -89.590651,43.062972 -89.590774,43.062782 -89.590953,43.062536 -89.591117,43.062256 -89.591247,43.061999 -89.591355,43.061605 -89.591397,43.061237 -89.591440,43.060226 -89.591462,43.059814 -89.591448,43.059285 -89.591444,43.059138 -89.591447,43.058776 -89.591441,43.057974 -89.591445,43.057875 -89.591447,43.057834 -89.591433,43.057596 -89.591436,43.057223 -89.591452,43.056849 -89.591448,43.056602 -89.591459,43.056281 -89.591458,43.055684 -89.591462,43.055136 -89.591453,43.054875 -89.591462,43.054545 -89.591444,43.053836 -89.591446,43.053568 -89.591459,43.053333 -89.591463,43.053252 -89.591447,43.052739 -89.591422,43.052555 -89.591351,43.052350 -89.591272,43.052210 -89.591196,43.052033 -89.591124,43.051852 -89.591073,43.051703 -89.591057,43.051565 -89.591078,43.051453 -89.591104,43.051368 -89.591146,43.051268 -89.591218,43.051166 -89.591329,43.051050 -89.591452,43.050942 -89.591722,43.050760 -89.591873,43.050664 -89.592237,43.050460 -89.592434,43.050368 -89.592531,43.050328 -89.592891,43.050240 -89.593008,43.050223 -89.593268,43.050172 -89.593416,43.050114 -89.593554,43.050041 -89.593876,43.049843 -89.594003,43.049769 -89.594104,43.049729 -89.594200,43.049680 -89.594274,43.049665 -89.594358,43.049660 -89.594429,43.049665 -89.594532,43.049679 -89.594662,43.049703 -89.594920,43.049840 -89.595075,43.049958 -89.595420,43.050300 </coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#lineStyle142</styleUrl>
+		<name>Stone Wood Drive</name>
+		<description>Curvature: 1346.49
+Distance: 1.06 mi
+Type: residential
+Surface: unknown</description>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>-89.545764,43.111096 -89.545767,43.111009 -89.545759,43.110594 -89.545764,43.110490 -89.545786,43.110386 -89.545817,43.110283 -89.545891,43.110098 -89.545921,43.110037 -89.546186,43.109653 -89.546529,43.109347 -89.547269,43.108909 -89.547344,43.108842 -89.547598,43.108612 -89.547770,43.108280 -89.547800,43.107794 -89.547808,43.107012 -89.547848,43.106758 -89.547858,43.106694 -89.548205,43.106379 -89.548534,43.106237 -89.548593,43.106212 -89.549449,43.106222 -89.549949,43.106169 -89.550282,43.106025 -89.551253,43.105253 -89.551616,43.105115 -89.551780,43.105107 -89.551916,43.105118 -89.552090,43.105154 -89.552313,43.105270 -89.552702,43.105637 -89.552839,43.105781 -89.553202,43.106164 -89.553215,43.106178 -89.553391,43.106507 -89.553388,43.106571 -89.553372,43.106847 -89.553135,43.107216 -89.552700,43.107585 -89.552596,43.107673 -89.552261,43.108081 -89.552234,43.108141 -89.552203,43.108236 -89.552180,43.108327 -89.552172,43.108394 -89.552182,43.108465 -89.552202,43.108603 -89.552499,43.109134 -89.552540,43.109330 -89.552547,43.109362 -89.552532,43.109416 -89.552241,43.109806 -89.552148,43.110034 -89.552151,43.110041 -89.552218,43.110245 -89.552544,43.110499 -89.552796,43.110726 -89.552815,43.110782 -89.552816,43.111052 </coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#lineStyle105</styleUrl>
+		<name>Arboretum Drive</name>
+		<description>Curvature: 1188.54
+Distance: 1.46 mi
+Type: residential
+Surface: unknown</description>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>-89.421907,43.045544 -89.421763,43.045551 -89.421532,43.045600 -89.421402,43.045660 -89.421336,43.045690 -89.421165,43.045873 -89.421093,43.046012 -89.421054,43.046279 -89.421104,43.046484 -89.421206,43.046794 -89.421306,43.047040 -89.421541,43.047670 -89.421573,43.047828 -89.421582,43.047939 -89.421585,43.048052 -89.421557,43.048166 -89.421500,43.048269 -89.421411,43.048359 -89.421212,43.048512 -89.420949,43.048637 -89.420668,43.048752 -89.420457,43.048802 -89.420330,43.048836 -89.420257,43.048855 -89.420032,43.048888 -89.419784,43.048889 -89.419512,43.048874 -89.419275,43.048866 -89.419060,43.048876 -89.418846,43.048895 -89.418584,43.048943 -89.418428,43.048981 -89.418208,43.049034 -89.417193,43.049307 -89.416428,43.049498 -89.416089,43.049564 -89.416033,43.049580 -89.415855,43.049629 -89.415723,43.049659 -89.415480,43.049694 -89.415126,43.049705 -89.414729,43.049702 -89.413919,43.049684 -89.413073,43.049655 -89.412218,43.049635 -89.411887,43.049633 -89.411563,43.049647 -89.411309,43.049724 -89.411104,43.049893 -89.410949,43.050099 -89.410820,43.050338 -89.410644,43.050708 -89.410533,43.050887 -89.410369,43.051124 -89.410197,43.051341 -89.409974,43.051634 -89.409535,43.052186 -89.409398,43.052436 -89.409313,43.052676 -89.409295,43.052882 -89.409323,43.053221 -89.409470,43.054239 -89.409491,43.054485 -89.409470,43.054703 -89.409389,43.054945 -89.409236,43.055181 -89.409036,43.055452 -89.408744,43.055917 -89.408595,43.056059 -89.408380,43.056159 -89.408097,43.056219 -89.407816,43.056228 -89.407697,43.056222 -89.407525,43.056220 -89.406740,43.056196 -89.406285,43.056177 -89.404978,43.056124 -89.404714,43.056185 -89.404528,43.056279 -89.404255,43.056562 </coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#lineStyle94</styleUrl>
+		<name>Muir Field Road</name>
+		<description>Curvature: 1151.52
+Distance: 1.24 mi
+Type: residential
+Surface: unknown</description>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>-89.511448,43.015798 -89.511483,43.015979 -89.511494,43.016077 -89.511538,43.016334 -89.511577,43.016567 -89.511596,43.016678 -89.511593,43.016834 -89.511586,43.016864 -89.511552,43.017013 -89.511484,43.017132 -89.511390,43.017243 -89.511203,43.017364 -89.511129,43.017411 -89.511073,43.017433 -89.510754,43.017513 -89.510420,43.017513 -89.510317,43.017513 -89.509989,43.017501 -89.509716,43.017508 -89.509561,43.017513 -89.509472,43.017518 -89.509293,43.017553 -89.509150,43.017583 -89.508961,43.017673 -89.508822,43.017769 -89.508789,43.017814 -89.508730,43.017893 -89.508672,43.017999 -89.508584,43.018260 -89.508515,43.018478 -89.508490,43.018557 -89.508465,43.018640 -89.508429,43.018760 -89.508416,43.018802 -89.508397,43.018864 -89.508375,43.018932 -89.508344,43.018988 -89.508324,43.019008 -89.508187,43.019143 -89.508149,43.019182 -89.508042,43.019250 -89.507942,43.019293 -89.507887,43.019317 -89.507715,43.019359 -89.507386,43.019420 -89.507276,43.019458 -89.507100,43.019512 -89.506863,43.019617 -89.506734,43.019705 -89.506667,43.019767 -89.506606,43.019823 -89.506445,43.020053 -89.506059,43.020712 -89.505950,43.020873 -89.505617,43.021277 -89.505536,43.021465 -89.505484,43.021710 -89.505474,43.021793 -89.505482,43.021993 -89.505484,43.022518 -89.505483,43.022578 -89.505485,43.022710 -89.505472,43.023429 -89.505464,43.024170 -89.505464,43.024237 -89.505464,43.024311 -89.505463,43.025136 -89.505465,43.025557 -89.505452,43.025928 -89.505448,43.026043 -89.505462,43.026365 -89.505470,43.026694 -89.505581,43.026983 -89.505618,43.027058 -89.505653,43.027123 -89.505855,43.027376 -89.505946,43.027451 -89.506075,43.027569 -89.506193,43.027664 -89.506341,43.027764 -89.506446,43.027824 -89.506526,43.027884 -89.506669,43.027980 -89.506788,43.028048 -89.507074,43.028239 -89.507408,43.028495 -89.507452,43.028530 -89.507548,43.028624 -89.507616,43.028712 -89.507757,43.028992 -89.507784,43.029091 -89.507794,43.029142 -89.507802,43.029243 -89.507807,43.029385 -89.507806,43.029677 -89.507800,43.029848 -89.507794,43.030091 -89.507793,43.030152 -89.507791,43.030305 -89.507804,43.030357 -89.507829,43.030418 -89.507894,43.030520 -89.507967,43.030641 </coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#lineStyle89</styleUrl>
+		<name>Red Tail Road</name>
+		<description>Curvature: 1135.10
+Distance: 1.03 mi
+Type: residential
+Surface: unknown</description>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>-89.542239,43.041536 -89.542254,43.041287 -89.542309,43.041119 -89.542420,43.040950 -89.542694,43.040728 -89.542899,43.040626 -89.543114,43.040556 -89.544294,43.040383 -89.545142,43.040250 -89.547008,43.039983 -89.547623,43.039894 -89.547910,43.039834 -89.548371,43.039740 -89.548606,43.039619 -89.548767,43.039536 -89.548949,43.039403 -89.549111,43.039152 -89.549239,43.038877 -89.549250,43.038477 -89.549220,43.037820 -89.549229,43.037317 -89.549358,43.037035 -89.549508,43.036768 -89.549498,43.036439 -89.549508,43.036015 -89.549637,43.035702 -89.549787,43.035436 -89.549914,43.035325 -89.550195,43.035129 -89.550624,43.034909 -89.551032,43.034713 -89.551258,43.034553 -89.551407,43.034447 -89.551654,43.034102 -89.551761,43.033796 -89.551783,43.033435 -89.551772,43.033090 -89.551856,43.032784 -89.552009,43.032484 -89.552099,43.032372 -89.552223,43.032243 -89.552598,43.031961 -89.552795,43.031765 -89.552865,43.031598 -89.552859,43.031195 </coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<styleUrl>#lineStyle87</styleUrl>
+		<name>Lake Mendota Drive</name>
+		<description>Curvature: 1129.18
+Distance: 1.80 mi
+Type: residential
+Surface: unknown</description>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>-89.450050,43.084127 -89.450158,43.084057 -89.450322,43.083951 -89.450399,43.083901 -89.450588,43.083786 -89.450796,43.083671 -89.451255,43.083459 -89.451388,43.083378 -89.451495,43.083301 -89.451596,43.083211 -89.451711,43.083095 -89.451768,43.083045 -89.451855,43.082988 -89.452051,43.082868 -89.452196,43.082798 -89.452327,43.082723 -89.452341,43.082715 -89.452496,43.082613 -89.452558,43.082567 -89.452691,43.082478 -89.452907,43.082305 -89.453411,43.081955 -89.453692,43.081774 -89.453827,43.081716 -89.454131,43.081617 -89.454424,43.081512 -89.455591,43.081117 -89.455923,43.081000 -89.456360,43.080852 -89.456717,43.080726 -89.456915,43.080668 -89.457174,43.080564 -89.457409,43.080492 -89.457587,43.080446 -89.457763,43.080386 -89.457956,43.080341 -89.458137,43.080311 -89.458271,43.080295 -89.458413,43.080278 -89.458721,43.080254 -89.458932,43.080254 -89.459081,43.080245 -89.459209,43.080253 -89.459333,43.080274 -89.459453,43.080316 -89.459638,43.080394 -89.459759,43.080435 -89.459895,43.080487 -89.460002,43.080513 -89.460103,43.080519 -89.460486,43.080496 -89.460702,43.080467 -89.460865,43.080434 -89.461354,43.080336 -89.461544,43.080303 -89.461777,43.080278 -89.462106,43.080277 -89.462480,43.080287 -89.462759,43.080294 -89.463194,43.080306 -89.463594,43.080322 -89.463706,43.080328 -89.463913,43.080344 -89.464050,43.080361 -89.464220,43.080376 -89.464462,43.080403 -89.464645,43.080430 -89.464753,43.080443 -89.465014,43.080476 -89.465210,43.080506 -89.465368,43.080514 -89.465547,43.080524 -89.465754,43.080548 -89.466669,43.080655 -89.466935,43.080663 -89.467278,43.080660 -89.467809,43.080590 -89.468047,43.080540 -89.468259,43.080475 -89.468713,43.080369 -89.468762,43.080358 -89.468806,43.080348 -89.468911,43.080324 -89.469024,43.080312 -89.469138,43.080309 -89.469228,43.080309 -89.469313,43.080320 -89.469409,43.080333 -89.469475,43.080349 -89.469552,43.080369 -89.469697,43.080417 -89.469903,43.080499 -89.470070,43.080591 -89.470197,43.080661 -89.470211,43.080669 -89.470282,43.080742 -89.470372,43.080853 -89.470423,43.080941 -89.470437,43.081032 -89.470466,43.081099 -89.470502,43.081234 -89.470504,43.081246 -89.470591,43.081944 -89.470614,43.082124 -89.470643,43.082321 -89.470720,43.082529 -89.470753,43.082596 -89.470788,43.082644 -89.470818,43.082684 -89.470997,43.082862 -89.471557,43.083359 -89.472000,43.083743 -89.472727,43.084383 -89.473264,43.084830 -89.473346,43.084935 -89.473395,43.085033 -89.473420,43.085147 -89.473483,43.085810 -89.473523,43.086116 -89.473575,43.086432 -89.473640,43.086560 -89.473654,43.086576 -89.473704,43.086630 -89.473770,43.086680 -89.473980,43.086813 -89.474365,43.087007 -89.475405,43.087506 -89.475720,43.087633 -89.475868,43.087702 -89.475956,43.087736 -89.476348,43.087954 -89.476674,43.088103 -89.476932,43.088216 -89.477200,43.088359 </coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,1 @@
+python curvature.py -v --max_lat_bound 22.31 --min_lat_bound 18.4 --min_lon_bound -160.38 --max_lon_bound -154.31 --output_basename madison-metropolis-area --min_curvature 300 ../../hawaii-latest.osm

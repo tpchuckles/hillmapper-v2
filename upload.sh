@@ -1,0 +1,1 @@
+rsync -avHP -e "ssh -p 56765" ../../hillmapper doctor@tuxwalls.us.to:'/media/2TB/pfeifer-us-to/files/'
